@@ -4,7 +4,7 @@
 ; ===================== Configuration =====================
 ; Add as many folders as you like:
 ROOT_DIRS := [
-    "C:\Users\<user>\github\AIPrompts"
+    A_ScriptDir
     ; , "D:\AnotherPromptFolder"
     ; , "E:\Team\Prompts"
 ]
