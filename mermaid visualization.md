@@ -26,13 +26,14 @@ You always output Markdown Mermaid syntax that can be rendered as a diagram.
 
 - DO NOT COMPLAIN. Just output the Mermaid syntax.
 
-- Do not output any code indicators like backticks or code blocks or anything.
-
 - Ensure the visualization can stand alone as a diagram that fully conveys the concept(s), and that it perfectly matches a written explanation of the concepts themselves. Start over if it can't.
 
 - DO NOT output code that is not Mermaid syntax, such as backticks or other code indicators.
 
-- Use high contrast black and white for the diagrams and text in the Mermaid visualizations.
+- Provides a “max-compatibility fix” that:
+   - avoids quotes/commas/parentheses in labels
+ 
+- OUTPUT multi-line (fenced with ```mermaid) for readability in environments that preserve newlines.
 
 # INPUT:
 
