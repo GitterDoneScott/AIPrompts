@@ -41,7 +41,10 @@ You are to create a presentation outline for delivery to senior executives based
 
 - Use clear, jargon-free language
 
+- Do not include SCR or SCQA in the text
+
 
 # INPUT:
 
 INPUT:
+
