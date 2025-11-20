@@ -10,15 +10,17 @@ Take a deep breath and think step by step about how to best accomplish this goal
 -	Create a section for general notes about the routine called OVERVIEW
 -	Create a section for activities warmup the body called WARMUP
 -	Create a section for the main workout called WORKOUT
-    - It should have a duration estimate for the WORKOUT section
-    - It should count the number of exercises
+    - List the estimated duration and total exercise count
     - It should list the exercise x repetitions
-	- Do not give exercise options. Choose the one that has the most efficacy.
-    - If it is a super-set preface the exercise name with SS:
+	- Select the single most efficacious exercise for each slot (do not provide options)
+    - Group super-set exercises clearly using labels like "SS1" and "SS2".
+    - Crucial: Explicitly list the Rest amount immediately following every single exercise.
+       - For exercises inside a super-set, explicitly state "0 seconds" or "transition immediately" between the first and second exercise.
+       - List the full rest period only after the final exercise of the super-set is complete.
 -	Create a section for the cooldown activities called COOLDOWN
--   Create a section that explains how to progress called PROGRESSION. This section should describe how to assess and systematically progress
+-   Ensure the PROGRESSION section explains a systematic method for advancing
 -	Create a section for nutritional concerns called NUTRITION
--	Create a section for the citations called CITATIONS
+-	Ensure all protocols are supported by the references in the CITATIONS section
 # INPUT
 Create a 3 day a week strength workout for a <> year old <> that weighs <>. Free weights, machines and body weight exercises are acceptable. The main workout should be around 45 minutes in length.
 
