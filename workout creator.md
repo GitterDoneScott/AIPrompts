@@ -8,7 +8,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 # OUTPUT
 -	Create a section for general notes about the routine called OVERVIEW
--	Create a section for activities warmup the body called WARMUP
+-	Create a section for activities to warmup the body called WARMUP
 -	Create a section for the main workout called WORKOUT
     - List the estimated duration and total exercise count
     - It should list the exercise x repetitions
@@ -17,6 +17,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
     - Crucial: Explicitly list the Rest amount immediately following every single exercise.
        - For exercises inside a super-set, explicitly state "0 seconds" or "transition immediately" between the first and second exercise.
        - List the full rest period only after the final exercise of the super-set is complete.
+       - Include a brief description on how to breath during the exercise.
 -	Create a section for the cooldown activities called COOLDOWN
 -   Ensure the PROGRESSION section explains a systematic method for advancing
 -	Create a section for nutritional concerns called NUTRITION
