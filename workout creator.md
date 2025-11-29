@@ -18,6 +18,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
        - For exercises inside a super-set, explicitly state "0 seconds" or "transition immediately" between the first and second exercise.
        - List the full rest period only after the final exercise of the super-set is complete.
        - Include a brief description on how to breath during the exercise.
+       - Include the muscles worked
 -	Create a section for the cooldown activities called COOLDOWN
 -   Ensure the PROGRESSION section explains a systematic method for advancing
 -	Create a section for nutritional concerns called NUTRITION
