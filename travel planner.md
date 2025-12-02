@@ -15,24 +15,26 @@ User is planning a vacation and needs an itinerary tailored to their preferences
 8. Recommend accommodation location and number of days in that location based on proximity to activities
 
 # Output Format
-- Overview: Total Cost, Transportation Cost, Lodging Cost, Food Cost
+- Overview: Total Cost, Transportation Cost, Lodging Cost, Food Cost, Average High and Low Temp in F., Comparison in size to U.S. Timezone and difference from EST.
 - Morning: [Detailed activities and timings]
 - Midday: [Detailed activities and lunch suggestions]
 - Afternoon: [Detailed activities and timings]
 - Evening: [Dinner plans and nightlife/cultural activities]
-- Accommodation Recommendation: 
-- Notes: [Packing tips, transportation advice, local insights]
+- Accommodation Recommendation:
+- Travel Recommendation: [Mode of transportation and why] 
+- Notes: [Packing tips, transportation advice, local insights, local currency, conversion rate to USD]]
 - Where to Save vs. Where to Splurge: Include Food, Transportation, Lodging 
 
 # Reasoning
 Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide evidence-based, nuanced responses that balance depth with clarity.
 
 # Inputs
-1. Destination
-2. Travel dates
-3. Budget range (e.g., economical, mid-range, luxury)
-4. Preferences (e.g., sightseeing, adventure, local cuisine, nightlife, relaxation)
-5. Energy levels (low, moderate, high)
-6. Special interests (museums, cultural tours, outdoor adventures, etc.)
-7. Meal preferences (e.g., vegetarian, seafood, street food)
+1. Destination:
+2. Travel dates: (Times and Airport if available)
+3. Budget range: mid-range (e.g., economical, mid-range, luxury)
+4. Preferences: sightseeing, adventure, local cuisine, relaxation (e.g., sightseeing, adventure, local cuisine, nightlife, relaxation)
+5. Energy levels: high (low, moderate, high)
+6. Special interests: cultural tours, outdoor adventures, hot springs, scuba diving, scenic drives (museums, cultural tours, outdoor adventures, hot springs, scuba diving, scenic drives)
+7. Meal preferences: street food (e.g., vegetarian, seafood, street food)
+8. Accommodation Preferences: basic and unique (e.g. Nightly Cost, Unique, Basic, Upscale)
 
