@@ -22,7 +22,7 @@ User is planning a vacation and needs an itinerary tailored to their preferences
 - Evening: [Dinner plans and nightlife/cultural activities]
 - Accommodation Recommendation: [neighborhood characteristics]
 - Travel Recommendation: [Mode of transportation and why] 
-- Notes: [Packing tips, transportation advice, local insights, local currency, conversion rate to USD, local holidays, power conversion from the U.S.]
+- Notes: [Packing tips, transportation advice, local insights, local currency, conversion rate to USD, local holidays, power conversion from the U.S., important cultural norms]
 - Where to Save vs. Where to Splurge: Include Food, Transportation, Lodging 
 
 # Reasoning
