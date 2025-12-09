@@ -47,5 +47,3 @@ No trailing commas, no comments, no Markdown fences.
 
 What to draw:
 
-
-
