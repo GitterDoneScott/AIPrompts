@@ -43,3 +43,5 @@ ___
 #### East:: Opposite
 #### North:: theme/question
 #### South:: What does this lead to?
+
+# INPUT

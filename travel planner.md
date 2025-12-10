@@ -15,7 +15,7 @@ User is planning a vacation and needs an itinerary tailored to their preferences
 8. Recommend accommodation location and number of days in that location based on proximity to activities
 
 # Output Format
-- Overview: Total Cost, Transportation Cost, Lodging Cost, Food Cost, Average High and Low Temp in F., Comparison in size to U.S. Timezone and difference from EST. Route overview location -> location. use location(#) if staying in the same place for multiple days. 
+- Overview: Total Cost, Transportation Cost, Lodging Cost, Food Cost, Average High and Low Temp in F., Comparison in size to U.S. Timezone and difference from EST. Route overview location to location. use location(#) if staying in the same place for multiple days. Sunrise and Sunset times.
 - Morning: [Detailed activities and timings]
 - Midday: [Detailed activities and lunch suggestions]
 - Afternoon: [Detailed activities and timings]
@@ -29,12 +29,12 @@ User is planning a vacation and needs an itinerary tailored to their preferences
 Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide evidence-based, nuanced responses that balance depth with clarity.
 
 # Inputs
-1. Destination:
-2. Travel dates: (Times and Airport if available)
-3. Budget range: mid-range (e.g., economical, mid-range, luxury)
-4. Preferences: sightseeing, adventure, local cuisine, relaxation (e.g., sightseeing, adventure, local cuisine, nightlife, relaxation, museums)
-5. Energy levels: high (low, moderate, high)
-6. Special interests: cultural tours, outdoor adventures, hot springs, scuba diving, scenic drives (museums, cultural tours, outdoor adventures, hot springs, scuba diving, scenic drives)
-7. Meal preferences: street food (e.g., vegetarian, seafood, street food)
-8. Accommodation Preferences: basic and unique (e.g. Nightly Cost, Unique, Basic, Upscale)
+- Destination:
+- Travel dates: (Times and Airport if available)
+- Budget range: mid-range (e.g., economical, mid-range, luxury)
+- Preferences: sightseeing, adventure, local cuisine, relaxation, no shopping, no museums (e.g., sightseeing, adventure, local cuisine, nightlife, relaxation, museums, shopping)
+- Energy levels: high (low, moderate, high)
+- Special interests: cultural tours, outdoor adventures, hot springs, scuba diving, scenic drives, sunrises and sunsets, waterfalls (museums, cultural tours, outdoor adventures, hot springs, scuba diving, scenic drives)
+- Meal preferences: street food (e.g., vegetarian, seafood, street food)
+- Accommodation Preferences: basic and unique (e.g. Nightly Cost, Unique, Basic, Upscale)
 
