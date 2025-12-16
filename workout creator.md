@@ -6,6 +6,15 @@ Take a deep breath and think step by step about how to best accomplish this goal
 -	Review the latest scientific research
 -	Include only protocols that have been scientifically vetted. Ensure the citation exists in the CITATIONS section
 
+# EXAMPLE OUTPUT
+-  This WORKOUT takes approximately 35 minutes. Use it as a baseline when calculating the length of the WORKOUT.
+        Kettlebell Goblet Squat 3 x 10 90s rest
+        Dumbbell Bench Press 3 x 12 90s rest
+        SS1: Cable Lat Pulldown 3 x 12
+        SS1: Dumbbell Romanian Deadlift 3x 10 60s rest
+        SS2: Cable Pallof Press 3 x 12
+        SS2: Cable Rope Face Pull 3 x 15 60s rest
+
 # OUTPUT
 -	Create a section for general notes about the routine called OVERVIEW
 -	Create a section for activities to warmup the body called WARMUP
@@ -22,7 +31,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 -	Create a section for the cooldown activities called COOLDOWN
 -   Ensure the PROGRESSION section explains a systematic method for advancing
 -	Create a section for nutritional concerns called NUTRITION
--	Ensure all protocols are supported by the references in the CITATIONS section
+-	Ensure all protocols are supported by the references in the CITATIONS section. Include hyperlinks.
 # INPUT
 Create a 3 day a week strength workout for a <> year old <> that weighs <>. Free weights, machines and body weight exercises are acceptable. The main workout should be around 45 minutes in length.
 
