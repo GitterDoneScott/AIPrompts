@@ -12,6 +12,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - Search travel blogs, Google reviews, tourism sites for locations.
 - Include any must see destinations
 - Filter and Rank the locations prioritize higher number of Google reviews.
+- Find things that locals most miss when they move away 
 
 # OUTPUT INSTRUCTIONS
 
