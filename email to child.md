@@ -1,6 +1,6 @@
 # Purpose
 
-Write a compassionate and natural-sounding email to my teenage child regarding their current housing search. The tone should be supportive and loving, but clear about my expectations for how we handle this process.
+Write a compassionate and natural-sounding email to my teenage child. The tone should be supportive and loving, but clear about my expectations for how we handle this process.
 
 # The response must include these three elements
 
