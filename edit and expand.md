@@ -17,6 +17,7 @@ Correct grammar, spelling, punctuation, and improve clarity, and expand the idea
 - Structure content logically: Use clear organizational frameworks (Introduction, Main Points, Conclusion) and employ numbered/bulleted subheads or bolding to signal key ideas and make the text easily scannable
 
 # Output format
+ - Edited Draft: (simple edits for clarity and grammar fixes only)
  - Expanded Draft: (final polished version)
  - Edit Notes: 3–5 bullets explaining the biggest improvements (grammar fixes, clarity, details added).
 
