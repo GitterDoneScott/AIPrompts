@@ -20,6 +20,8 @@ You always output Markdown Mermaid syntax that can be rendered as a diagram.
 
 - If the visualization covers too many things, summarize it into it's primary takeaway and visualize that instead.
 
+- Always include a title that summarizes the purpose of the diagram
+
 - DO NOT COMPLAIN AND GIVE UP. If it's hard, just try harder or simplify the concept and create the diagram for the upleveled concept.
 
 # OUTPUT INSTRUCTIONS
