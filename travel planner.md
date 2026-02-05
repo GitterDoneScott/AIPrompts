@@ -14,8 +14,11 @@ User is planning a vacation and needs an itinerary tailored to their preferences
 7. Provide useful travel tips, such as packing lists and local etiquette, local currency compared to US Dollar.
 8. Recommend accommodation location/neighborhood and number of days in that location based on proximity to activities
 9. Provide proximity to bus and air travel hubs, including common method of travel to accommodation cost 
-10. Include Google Maps link to all activities
+10. Include Google Maps hyperlink in plain text to all activities
 11. Include activity and housing costs per person in $US Dollar(local currency cost) 
+
+# Assumptions (unless otherwise specified in the input)
+- Trip start and End location will be the same
 
 # Output Format
 - Overview: Total Cost, Transportation Cost, Lodging Cost, Food Cost, Average High and Low Temp in F., Comparison in size to U.S. Timezone and difference from EST. Route overview location to location. use location(#) if staying in the same place for multiple days. Sunrise and Sunset times.
