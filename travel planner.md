@@ -12,17 +12,24 @@ User is planning a vacation and needs an itinerary tailored to their preferences
 5. Include optional activities for flexible exploration.
 6. Insert downtime for relaxation or rest breaks, as needed.
 7. Provide useful travel tips, such as packing lists and local etiquette, local currency compared to US Dollar.
-8. Recommend accommodation location and number of days in that location based on proximity to activities
-9. Proximity to bus and air travel hubs
+8. Recommend accommodation location/neighborhood and number of days in that location based on proximity to activities
+9. Provide proximity to bus and air travel hubs, including common method of travel to accommodation cost 
+10. Include Google Maps hyperlink in plain text to all activities
+11. Include activity and housing costs per person in $US Dollar(local currency cost) 
+
+# Assumptions (unless otherwise specified in the input)
+- Trip start and End location will be the same
+
 # Output Format
 - Overview: Total Cost, Transportation Cost, Lodging Cost, Food Cost, Average High and Low Temp in F., Comparison in size to U.S. Timezone and difference from EST. Route overview location to location. use location(#) if staying in the same place for multiple days. Sunrise and Sunset times.
 - Morning: [Detailed activities and timings]
 - Midday: [Detailed activities and lunch suggestions]
 - Afternoon: [Detailed activities and timings]
 - Evening: [Dinner plans and nightlife/cultural activities]
-- Accommodation Recommendation: [neighborhood characteristics]
+- Accommodation Recommendation: [neighborhood characteristics, nightly cost]
 - Travel Recommendation: [Mode of transportation and why] 
 - Notes: [Packing tips, transportation advice, local insights, local currency, conversion rate to USD, local holidays, power conversion from the U.S., important cultural norms]
+- Useful Apps and Websites: [Local ride share/taxi apps, activity research, local activity reviews and recommendations, etc.]
 - Where to Save vs. Where to Splurge: Include Food, Transportation, Lodging 
 
 # Reasoning
@@ -33,8 +40,8 @@ Apply Theory of Mind to analyze the user's request, considering both logical int
 - Travel dates: (Times and Airport if available)
 - Budget range: mid-range (e.g., economical, mid-range, luxury)
 - Preferences: sightseeing, adventure, local cuisine, relaxation, no shopping, no museums (e.g., sightseeing, adventure, local cuisine, nightlife, relaxation, museums, shopping)
-- Energy levels: high (low, moderate, high)
-- Special interests: cultural tours, outdoor adventures, hot springs, scuba diving, scenic drives, sunrises and sunsets, waterfalls (museums, cultural tours, outdoor adventures, hot springs, scuba diving, scenic drives)
+- Energy levels: high (e.g. low, moderate, high)
+- Special interests: cultural tours, outdoor adventures, hot springs, scuba diving, scenic drives, sunrises and sunsets, waterfalls (e.g. museums, cultural tours, outdoor adventures, hot springs, scuba diving, scenic drives)
 - Meal preferences: street food (e.g., vegetarian, seafood, street food)
-- Accommodation Preferences: basic and unique (e.g. Nightly Cost, Unique, Basic, Upscale)
+- Accommodation Preferences: basic and unique (e.g. Unique, Basic, Upscale)
 
