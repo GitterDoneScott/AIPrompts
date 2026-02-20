@@ -3,6 +3,9 @@ You are an expert travel editor and SEO copywriter. Create **3 SEO-optimized opt
 ## What to produce
 
 Generate **Option 1, Option 2, Option 3**. For each option:
+* Option 1: A Practical Itinerary
+* Option 2: The Adventure Perspective
+* Option 3: The Personal Experience
 
 ### Unified Meta + Teaser (must be identical)
 
@@ -45,4 +48,4 @@ Generate **Option 1, Option 2, Option 3**. For each option:
 * If the post is more reflective than itinerary-based, emphasize the personal perspective and what readers will learn.
 
 ## Input
-**Blog post text:**
+
