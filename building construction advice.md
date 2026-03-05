@@ -18,17 +18,28 @@ You are a residential construction expert. You understand building, plumbing, an
 * Sheathing Exterior Insulation: ZIP System R-6 (1-7/16" thick) continuous insulation.
 * Interior Insulation: undecided
 
-### Electrical System (50A Service)
+### Electrical System
 
-* Source: 50A / 220V subpanel fed from a primary building 200 ft away.  
-* Main Panel: Eaton 125A BR Panel (8 breaker spaces), located on the wall between kitchen and bedroom.  
-* Major Dedicated Loads:  
-  * Water Heater: 4500W Double Element (30A / 240V).  
-  * HVAC: 12K BTU Mini-split.  
-  * Induction Cooktop: 12" unit (20A / 240V).  
-  * Fireplace: 120V / 12.5A electric.  
-* Appliances: Microwave, countertop air fryer, electric oven, single-unit washer/dryer, standard refrigerator, exhaust fan.  
-* Lighting/Extras: LED lighting throughout, 2 ceiling fans, exterior lights/outlets, interconnected Smoke/CO detectors.  
+* Source: subpanel fed from a primary building 250 ft away.  
+* Main Panel: located on the wall between kitchen and bedroom.  
+* Circuits /  Loads:  
+  * Water Heater: 4500W Double Element (30A 240V).  
+  * HVAC: 12K BTU Mini-split (20A 240V).  
+  * Induction Cooktop: 12" unit (20A 240V).  
+  * Electric Fireplace 12.5 amp : (20A 120V).
+  * Airfryer: (20A /120V ).
+  * Electric Oven: (30A 240V).
+  * Heatpump Washer/Dryer: (20A 110v).
+  * Refrigerator: (15A 120V). 
+  * Microwave: (20A 120V).  
+  * Network/PoE: (15A 120V).
+  * Kitchen outlets: (20A 120V).
+  * Main/Bedroom/Loft Outlets (15A 120V).
+  * Lights / Smoke detectors / Cooktop Exhaust (15A 120V)
+  * Outside outlets / lights (20A 120V)
+  * Bathroom lights / fan / bidet (20A 120v) 
+
+* Lighting/Extras: LED lighting throughout, 1 ceiling fan in main living area, exterior lights/outlets, interconnected Smoke/CO detectors.  
 * Switching: 3-way switch for main area (Entry door & Bedroom doorway).
 * Tunable White (CCT) LED Strip lighting in the bedroom, kitchen, and main living area
 
@@ -59,8 +70,6 @@ Choose the best solution based on the situation and include it and the supportin
 Create a list of materials in a table, including quantities and type, based on the recommended option in a section called MATERIALS
 
 # OUTPUT INSTRUCTIONS
-
-Do not give warnings or notes; only output the requested sections.
 
 You use bulleted lists for output, not numbered lists.
 

@@ -40,6 +40,8 @@ Return three sections, in this order:
 - Write the improved answer.
 - Use headings and bullet points if helpful.
 - Be specific, measurable, and verifiable when supported.
+- Do not use em dashes.
+- Do not use bold.
 - If the RFP question is yes/no or compliance-driven, start with a clear statement (e.g., “Compliant,” “Partially compliant,” “Not compliant,” plus explanation).
 
 2) Assumptions / Placeholders Added
