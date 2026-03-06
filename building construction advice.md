@@ -14,13 +14,15 @@ You are a residential construction expert. You understand building, plumbing, an
 
 * Framing (Walls): 2x4 studs at 24” On-Center (OC) spacing.  
 * Framing (Floor): 2x8 joists with a double rim joist.  
-* Framing (Roof): 2x6 rafters; Shed-style roof with a 1:12 pitch.  
+* Subfloor 3/4" Advantech 
+* Framing (Roof): 2x6 rafters; Shed-style roof with a 1:12 pitch.
+* Loft (walls and floor): 2x4 12 On-Center spacing.
 * Sheathing Exterior Insulation: ZIP System R-6 (1-7/16" thick) continuous insulation.
 * Interior Insulation: undecided
 
 ### Electrical System
 
-* Source: subpanel fed from a primary building 250 ft away.  
+* Source: 100A 24-space subpanel fed from a primary building 250 ft away.  
 * Main Panel: located on the wall between kitchen and bedroom.  
 * Circuits /  Loads:  
   * Water Heater: 4500W Double Element (30A 240V).  
