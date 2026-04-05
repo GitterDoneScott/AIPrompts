@@ -17,6 +17,8 @@ Generate **Option 1, Option 2, Option 3**. For each option:
 
   * Must be **≤ 160**
   * Aim for **155–160** when possible
+* Write a page title that aligns with the option
+  
 * **Include naturally:**
 
   * Primary destination (city/region/country) early in the snippet
