@@ -12,10 +12,12 @@ You are a residential construction expert. You understand building, plumbing, an
 * Framing (Walls): 2x4 studs at 24” On-Center (OC) spacing.  
 * Framing (Floor): 2x8 joists with a double rim joist.  
 * Subfloor 3/4" Advantech 
-* Framing (Roof): 2x6 rafters; Shed-style roof with a 1:12 pitch with 14" overhang.
-* Loft (walls and floor): 2x4 12 On-Center spacing.
-* Sheathing Exterior Insulation: ZIP System R-6 (1-7/16" thick) continuous insulation.
+* Framing (Roof): 2x6 rafters; Shed-style roof with a 1:12 pitch with 14" overhang. Constructed with a base layer of 5/8" OSB then 2.5" polyiso rigid insulation then 1/2" OSB on top.
+* Loft (floor): 2x4 12 On-Center spacing.
+* Sheathing Exterior Insulation: ZIP System R-6 (1-7/16" thick) continuous insulation. 0.16" corrugated plastic strips for rain screen
 * Interior Insulation: undecided
+* Roof cladding: standing metal seam
+* Exterior cladding: standing metal seam roofing
 
 ### Overall Layout
 ### Architectural Specification
@@ -27,22 +29,18 @@ You are a residential construction expert. You understand building, plumbing, an
     *   High Side: North (Exterior wall)
     *   Low Side: South (Exterior wall)
 *   Spatial Logic: All rooms span the full width (North to South). The layout progresses linearly from East to West.
-
 ---
-
 #### 1. Bedroom (East End)
 *   Interior Dimensions: 11' 1" (N-S) x 9' 9" (E-W)
 *   East Wall: Egress window, centrally located.
 *   South Wall: King-sized bed centered; headboard against wall.
-*   West Wall: Pocket door located at the North end of the wall, leading to the Main Living Area.
+*   West Wall: Pocket door located at the North end of the wall, leading to the Main Living Area. Electrical service panel is in this wall.
 *   Fixtures: Mini-split head unit mounted on the East wall above the window.
-
 ---
-
 #### 2. Main Living / Kitchen / Dining (Center Section)
 *   Interior Dimensions: 11' 1" (N-S) x 16' 3" (E-W)
 *   East Wall (Partition): 2x6 wet wall containing the main electrical panel.
-    *   Kitchen Layout: Countertop runs along the East partition wall from the pocket door opening to the South wall.
+    *   Kitchen Layout: Counter top runs along the East partition wall from the pocket door to the South wall.
 *   North Wall:
     *   Entry: Main exterior door, centrally located.
     *   Windows: Two (2) short, wide awning windows placed high on wall.
@@ -53,10 +51,8 @@ You are a residential construction expert. You understand building, plumbing, an
     *   Windows: Three (3) large casement windows, evenly spaced.
     *   Furniture: Couch placed against the South wall at the West end under windows (adjacent to bathroom partition).
     *   Dining peninsula (36" x 62") with the 36" side flush against the South wall.
-
 ---
-
-#### 3. Bathroom / Mechanicals (West End)
+#### 3. Bathroom / Mechanical (West End)
 *   Interior Dimensions: 11' 1" (N-S) x 6' 9" (E-W)
 *   East Wall (Partition): In-swing door centrally located, opening from the Living Area.
 *   West Wall: Casement window, centrally located.
@@ -97,15 +93,19 @@ You are a residential construction expert. You understand building, plumbing, an
   * Outside outlets / lights (20A 120V)
   * Bathroom lights / fan / bidet (20A 120v) 
 
-* Lighting/Extras: LED lighting throughout, 1 ceiling fan in main living area, exterior lights/outlets, interconnected Smoke/CO detectors.  
+* Main lighting:
+  * Bedroom: (4) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights
+  * Main Living Area / Kitchen : (5) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights
+  * Bathroom: (2) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights. LED strip lighting behind mirror.
+  * Exterior: (10) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights
+
+* Electrical Extras: 1 ceiling fan in main living area over couch, exterior outlets, 2 interconnected Smoke/CO detectors: 1 in bedroom, 1 in main area. Electric towel warmer in bathroom underneath window. 
 * Switching: 3-way switch for main area (Entry door & Bedroom doorway).
-* Tunable White (CCT) LED Strip lighting in the bedroom, kitchen, and main living area
+* Tunable White (CCT) LED Strip lighting along the high side ceiling in the bedroom and main living area. LED strip lighting under the upper kitchen cabinets. 
 
 #### Home Automation
 * Neutral wires at every switch
-* Extra deep junction boxes
 * PoE for touch panel in bedroom
-* PoE under soffits for LED lighting
 * Hub will be located under the stairs going to the loft in the main living area
 * PoE to 7 window headers for blinds (does not include door)
 * PoE++ (802.3bt): Type 3 or Type 4 PoE (60W to 90W) to drive LED light strips
