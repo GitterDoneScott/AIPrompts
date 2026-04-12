@@ -90,8 +90,9 @@ You are a residential construction expert. You understand building, plumbing, an
   * Kitchen outlets: (20A 120V).
   * Main/Bedroom/Loft Outlets (15A 120V).
   * Lights / Smoke detectors / Cooktop Exhaust (15A 120V)
-  * Outside outlets / lights (20A 120V)
-  * Bathroom lights / fan / bidet / towel warmer/ outlets (20A 120v) 
+  * Outside outlets (20A 120V)
+  * Bathroom lights / fan / bidet / towel warmer/ outlets (20A 120v)
+  * Outside Lights (15A 120V) 
 
 * Main lighting:
   * Bedroom: (4) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights
