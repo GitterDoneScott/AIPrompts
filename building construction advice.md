@@ -12,7 +12,7 @@ You are a residential construction expert. You understand building, plumbing, an
 * Framing (Walls): 2x4 studs at 24” On-Center (OC) spacing.  
 * Framing (Floor): 2x8 joists with a double rim joist.  
 * Subfloor 3/4" Advantech 
-* Framing (Roof): 2x6 rafters; Shed-style roof with a 1:12 pitch with 14" overhang. Constructed with a base layer of 5/8" OSB then 2.5" polyiso rigid insulation then 1/2" OSB on top.
+* Framing (Roof): 2x6 rafters 24" OC spacing; Shed-style roof with a 1:12 pitch with 14" overhang. Constructed with a base layer of 5/8" OSB then 2.5" polyiso rigid insulation then 1/2" OSB on top. 
 * Loft (floor): 2x4 12 On-Center spacing.
 * Sheathing Exterior Insulation: ZIP System R-6 (1-7/16" thick) continuous insulation. 0.16" corrugated plastic strips for rain screen
 * Interior Insulation: undecided
@@ -81,34 +81,33 @@ You are a residential construction expert. You understand building, plumbing, an
   * HVAC: 12K BTU Mini-split (20A 240V).  
   * Induction Cooktop: 12" unit (20A 240V).  
   * Electric Fireplace 12.5 amp : (20A 120V).
-  * Airfryer: (20A /120V ).
+  * Airfryer/oven: (20A /120V wired with 10 ga wire).
   * Electric Oven: (30A 240V).
   * Heatpump Washer/Dryer: (20A 110v).
-  * Refrigerator: (15A 120V). 
+  * Refrigerator: (20A 120V). 
   * Microwave: (20A 120V).  
-  * Network/PoE: (15A 120V).
+  * Network/PoE: (20A 120V).
   * Kitchen outlets: (20A 120V).
   * Main/Bedroom/Loft Outlets (15A 120V).
   * Lights / Smoke detectors / Cooktop Exhaust (15A 120V)
   * Outside outlets / lights (20A 120V)
-  * Bathroom lights / fan / bidet (20A 120v) 
+  * Bathroom lights / fan / bidet / towel warmer/ outlets (20A 120v) 
 
 * Main lighting:
   * Bedroom: (4) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights
   * Main Living Area / Kitchen : (5) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights
   * Bathroom: (2) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights. LED strip lighting behind mirror.
-  * Exterior: (10) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights
+  * Exterior: (10) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights evently spaced under eves
 
 * Electrical Extras: 1 ceiling fan in main living area over couch, exterior outlets, 2 interconnected Smoke/CO detectors: 1 in bedroom, 1 in main area. Electric towel warmer in bathroom underneath window. 
 * Switching: 3-way switch for main area (Entry door & Bedroom doorway).
-* Tunable White (CCT) LED Strip lighting along the high side ceiling in the bedroom and main living area. LED strip lighting under the upper kitchen cabinets. 
+* Non-POE Tunable White (CCT) LED Strip lighting along the high side ceiling in the bedroom and main living area. LED strip lighting under the upper kitchen cabinets. 
 
 #### Home Automation
 * Neutral wires at every switch
 * PoE for touch panel in bedroom
 * Hub will be located under the stairs going to the loft in the main living area
 * PoE to 7 window headers for blinds (does not include door)
-* PoE++ (802.3bt): Type 3 or Type 4 PoE (60W to 90W) to drive LED light strips
 
 ### Plumbing & Utilities
 
