@@ -10,14 +10,16 @@ You are a residential construction expert. You understand building, plumbing, an
 ### Structural Specifications
 
 * Framing (Walls): 2x4 studs at 24” On-Center (OC) spacing.  
-* Framing (Floor): 2x8 joists with a double rim joist.  
+* Framing (Floor): 2x8 joist at 24" On-Center spacing with a double rim joist.  
 * Subfloor 3/4" Advantech 
 * Framing (Roof): 2x6 rafters 24" OC spacing; Shed-style roof with a 1:12 pitch with 14" overhang. Constructed with a base layer of 5/8" OSB then 2.5" polyiso rigid insulation then 1/2" OSB on top. 
 * Loft (floor): 2x4 12 On-Center spacing.
 * Sheathing Exterior Insulation: ZIP System R-6 (1-7/16" thick) continuous insulation. 0.16" corrugated plastic strips for rain screen
-* Interior Insulation: undecided
+* Wall, ceiling, and floor insulation: stone wool
 * Roof cladding: standing metal seam
 * Exterior cladding: standing metal seam roofing
+* Flooring: Toasted Chestnut / warm medium brown colored SPC-core luxury vinyl plank
+* All windows include primed jamb extensions.
 
 ### Overall Layout
 ### Architectural Specification
@@ -32,30 +34,36 @@ You are a residential construction expert. You understand building, plumbing, an
 ---
 #### 1. Bedroom (East End)
 *   Interior Dimensions: 11' 1" (N-S) x 9' 9" (E-W)
-*   East Wall: Egress window, centrally located.
+*   East Wall: Egress window 35.75" X 48", centrally located.
 *   South Wall: King-sized bed centered; headboard against wall.
 *   West Wall: Pocket door located at the North end of the wall, leading to the Main Living Area. Electrical service panel is in this wall.
 *   Fixtures: Mini-split head unit mounted on the East wall above the window.
+*   Ceiling: 3/4" tongue-and-groove directly attached to rafters, natural clear
+*   Wall covering: 1x6 3/4" pine T&G nickel-gap shiplap directly attached to studs, white
 ---
 #### 2. Main Living / Kitchen / Dining (Center Section)
 *   Interior Dimensions: 11' 1" (N-S) x 16' 3" (E-W)
+*   Ceiling: 3/4" 1x6 tongue-and-groove directly attached to rafters, natural clear
+*   Walls: 1x6 3/4" pine T&G nickel-gap shiplap directly attached to studs, white
 *   East Wall (Partition): 2x6 wet wall containing the main electrical panel.
     *   Kitchen Layout: Counter top runs along the East partition wall from the pocket door to the South wall.
 *   North Wall:
-    *   Entry: Main exterior door, centrally located.
-    *   Windows: Two (2) short, wide awning windows placed high on wall.
+    *   Entry: Main exterior door, centrally located 36" x 80".
+    *   Windows: Two (2) short, wide awning windows placed high on wall 59.75" X 24".
     *   Storage/Appliances: Refrigerator and built-in cabinets located East of the entry door.
     *   Custom stairs to loft located West of the entry door.
     *   Electric fireplace integrated below the stairs.
 *   South Wall:
-    *   Windows: Three (3) large casement windows, evenly spaced.
+    *   Windows: Three (3) large casement windows 35.75" X 59.75", evenly spaced.
     *   Furniture: Couch placed against the South wall at the West end under windows (adjacent to bathroom partition).
     *   Dining peninsula (36" x 62") with the 36" side flush against the South wall.
 ---
 #### 3. Bathroom / Mechanical (West End)
 *   Interior Dimensions: 11' 1" (N-S) x 6' 9" (E-W)
+*   Ceiling: 3/4" 1x6 tongue-and-groove directly attached to rafters, natural clear
+*   Walls: 1x6 3/4" pine T&G nickel-gap shiplap directly attached to studs, white
 *   East Wall (Partition): In-swing door centrally located, opening from the Living Area.
-*   West Wall: Casement window, centrally located.
+*   West Wall: Casement window 28.25" X 28", centrally located.
 *   North Wall Details:
     *   Northeast Corner: Dedicated mechanical equipment area.
     *   Northwest Corner: Toilet.
@@ -64,6 +72,9 @@ You are a residential construction expert. You understand building, plumbing, an
     *   Southwest Corner: Glass-enclosed shower unit with showerhead on the West wall.
 
 #### 4. Loft (West End) above Bathroom
+*   Ceiling: 3/4" 1x6 tongue-and-groove directly attached to rafters, natural clear
+*   Walls: 1x6 3/4" pine T&G nickel-gap shiplap directly attached to studs, white
+*   West wall: Awning window 40.75" X 20.5", centrally located
 
 ### Interior Rough Ceiling Height 
  * Main Low Side: 116 1/2"
@@ -98,15 +109,15 @@ You are a residential construction expert. You understand building, plumbing, an
   * Bedroom: (4) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights
   * Main Living Area / Kitchen : (5) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights
   * Bathroom: (2) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights. LED strip lighting behind mirror.
-  * Exterior: (10) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights evently spaced under eves
+  * Exterior: (10) 4" CCT Ultra-Thin LED Recessed Dimmable Ceiling Lights evenly spaced under eves
 
 * Electrical Extras: 1 ceiling fan in main living area over couch, exterior outlets, 2 interconnected Smoke/CO detectors: 1 in bedroom, 1 in main area. Electric towel warmer in bathroom underneath window. 
 * Switching: 3-way switch for main area (Entry door & Bedroom doorway).
-* Non-POE Tunable White (CCT) LED Strip lighting along the high side ceiling in the bedroom and main living area. LED strip lighting under the upper kitchen cabinets. 
+* Non-POE Tunable White (CCT) LED Strip lighting along the high side ceiling in the bedroom and main living area. 
+* LED strip lighting under the upper kitchen cabinets. 
 
 #### Home Automation
 * Neutral wires at every switch
-* PoE for touch panel in bedroom
 * Hub will be located under the stairs going to the loft in the main living area
 * PoE to 7 window headers for blinds (does not include door)
 
@@ -114,14 +125,15 @@ You are a residential construction expert. You understand building, plumbing, an
 
 * Water Source: Private Well (independent power supply).  
 * Supply Lines: 1/2” PEX-B.  
-* Waste Lines: PVC.  
-* Kitchen Configuration: Galley-style along the shared wall with the bedroom; all plumbing and appliances share the same wall as the electrical panel (wet wall design).
+* Waste Lines: PVC.
+* Delta R10000-UNWS shower rough in  
+* Kitchen Configuration: Galley-style along the shared wall with the bedroom; all plumbing and appliances share the same wall as the electrical panel.
 
 Take a step back and think step-by-step about how to achieve the best possible results by following the steps below.
 
 # STEPS
 
-Consider alternatives to solving the question asked. Include  into a section called OPTIONS.
+Consider alternatives to solving the question asked. Include into a section called OPTIONS.
 
 Choose the best solution based on the situation and include it and the supporting reasons in a section called RECOMMENDATION.
 
