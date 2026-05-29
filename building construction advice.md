@@ -46,6 +46,8 @@ You are a residential construction expert. You understand building, plumbing, an
 *   Ceiling: 3/4" 1x6 tongue-and-groove directly attached to rafters, natural clear
 *   Walls: 1x6 3/4" pine T&G nickel-gap shiplap directly attached to studs, white
 *   East Wall (Partition): 2x6 wet wall containing the main electrical panel.
+    *   Pocket door 30" x 80" solid-core slab in Johnson 1560SC soft-close frame (2x6, steel split studs). Opens to the North (door slides NORTH into pocket; pocket cavity occupies the north portion of the partition wall). Rough opening 61" x 85". 
+    *   Electrical service panel is in this wall, located SOUTH of the door opening (away from pocket cavity).
     *   Kitchen Layout: Counter top runs along the East partition wall from the pocket door to the South wall.
 *   North Wall:
     *   Entry: Main exterior door, centrally located 36" x 80".
@@ -60,9 +62,9 @@ You are a residential construction expert. You understand building, plumbing, an
 ---
 #### 3. Bathroom / Mechanical (West End)
 *   Interior Dimensions: 11' 1" (N-S) x 6' 9" (E-W)
-*   Ceiling: 3/4" 1x6 tongue-and-groove directly attached to rafters, natural clear
+*   Ceiling: 3/4" 1x6 tongue-and-groove directly attached to rafters, white same material as walls.
 *   Walls: 1x6 3/4" pine T&G nickel-gap shiplap directly attached to studs, white
-*   East Wall (Partition): In-swing door centrally located, opening from the Living Area.
+*   East Wall (Partition): 28" x 80"  righthand In-swing door centrally located, opening from the Living Area.
 *   West Wall: Casement window 28.25" X 28", centrally located.
 *   North Wall Details:
     *   Northeast Corner: Dedicated mechanical equipment area.
@@ -118,8 +120,8 @@ You are a residential construction expert. You understand building, plumbing, an
 
 #### Home Automation
 * Neutral wires at every switch
-* Hub will be located under the stairs going to the loft in the main living area
-* PoE to 7 window headers for blinds (does not include door)
+* Hub will be located under the stairs going to the loft from the main living area.
+* PoE to 7 window headers for blinds (does not include door).
 
 ### Plumbing & Utilities
 
