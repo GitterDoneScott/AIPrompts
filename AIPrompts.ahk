@@ -165,12 +165,15 @@ InsertPrompt(filePath, *) {
         return
     }
 
-    clipSaved := ClipboardAll()  ; save all clipboard formats
+    clipSaved := ClipboardAll()
     try {
+        A_Clipboard := ""          ; clear first
         A_Clipboard := content
+        ClipWait(2)                ; wait up to 2s for clipboard to contain data
         Send("^v")
-        Sleep(50)                ; brief settle time
+        Sleep(300)                 ; give the target app time to read the clipboard
     } finally {
-        A_Clipboard := clipSaved ; restore original clipboard
+        A_Clipboard := clipSaved
     }
 }
+
